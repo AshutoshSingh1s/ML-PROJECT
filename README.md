@@ -82,22 +82,9 @@ Future GDP prediction for selected years
 
 🚀 How to Run
 
-Clone this repository:
-
-git clone https://github.com/AshutoshSingh1s/GDP-Prediction.git
-cd GDP-Prediction
-
-
 Install dependencies:
-
 pip install -r requirements.txt
-
-
 Run analysis notebook:
-
 jupyter notebook notebooks/gdp_analysis.ipynb
-
-
 Run GUI for prediction:
-
 python src/final.py
